@@ -1,0 +1,149 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 nov. 2020, 11:03:51
+    Author     : daw209
+*/
+@media (min-width: 700px){
+    main{
+        display: flex;
+        justify-content: center;
+    }
+}
+html{
+    min-height: 100%;
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);  
+}
+span.loginreg,p.loginreg{
+    color: #4B2B44;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+}
+input.login{
+    width: 80%;
+    color: #4B2B44;
+    background: none;
+    border: none;
+}
+input.login::placeholder{
+    color: #4B2B44;   
+}
+input.reg{
+    width: 100%;
+    background-color: white;
+    height: 20px;
+    color: #4B2B44;
+}
+span,p{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    color: #4B2B44;
+}
+.letrainput{
+    font-size: 20px;
+    font-weight: bold;
+}
+.borde{
+    border-bottom: 3px solid #4B2B44;
+}
+.iconologin{
+    color: #4B2B44;
+    width: 30px;
+}
+.recuadre{
+    background-image: linear-gradient(-225deg, #E3FDF5 50%, #FFE6FA 50%);
+    box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 40px;
+    border: 3px solid #4B2B44;
+    border-radius: 20px;
+}
+div[id="CRUD"]{
+    margin-top: 3vh;
+}
+div[id="login"]{
+    margin-top: 17vh;
+}
+div[id="registro"]{
+    margin-top: 11vh;
+}
+.m1{
+    margin-top: 1.20em;
+}
+.m2{
+    margin-top: 10px;
+}
+.m3{
+    margin-top: 2em;
+    padding-bottom: 10px;
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #4B2B44;
+}
+p.crud{
+    text-align: center;
+    text-decoration: underline;
+}
+fieldset{
+    width: 25%;
+    margin: auto;
+}
+legend{
+    color: #4B2B44;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+table{
+    margin: auto;
+    border: 3px solid #4B2B44;
+}
+.letrainput2{
+    font-size: 17px;
+    font-weight: bold;
+}
+.botonCRUD{
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+}
+.botonCRUD:hover{
+    box-shadow: 0 10px 20px black;
+    transition: all 0.2s ease;
+}
+.c1{
+    background-color: #FCD8ED;
+}
+.c2{
+    background-color: #96ceb4;
+}
+.c3{
+    background-color: #ff6f69;
+}
+.c4{
+    background-color: #AF7396;
+}
+
+.btn{
+    padding: 10px;
+    border: 2px solid #4B2B44;
+    border-radius: 30px;
+    width: 100%;
+    color: #4B2B44;
+}
+.btn:hover{
+    box-shadow: 0 10px 20px black;
+    transition: all 0.2s ease;
+}
+.rosa{
+    background-color:  #E7DFF9;
+}
+.verde{
+    background-color: #C1A6D2;
+}
