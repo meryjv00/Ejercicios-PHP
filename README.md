@@ -1,4 +1,4 @@
-# Contenido del repositorio:grey_exclamation::hatched_chick:
+# :cherry_blossom:Contenido del repositorio:cherry_blossom:
 ## - Versión 1 (LoginRegistroCRUD)   
   
 ## - Versión 2 (LoginRegistroCRUD_OO)  
