@@ -12,7 +12,7 @@ Incluye:
 + Login
 + Registro
 + CRUD usuarios
-++ Contraseña olvidada
++ Contraseña olvidada (nuevo)
 
 ## - Versión 3 (LoginRegistroCRUDTareas_OO)   
 PHP Class mediante mysqli orientado a objetos  
@@ -21,5 +21,5 @@ Incluye:
 + Registro
 + CRUD usuarios
 + Contraseña olvidada
-++ CRUD tareas
-++ Mecanismo tareas
++ CRUD tareas (nuevo)
++ Mecanismo tareas (nuevo)
