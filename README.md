@@ -22,4 +22,4 @@ Incluye:
 + CRUD usuarios
 + Contraseña olvidada
 + **CRUD tareas**
-+ **Mecanismo tareas**
++ **Interacción tareas**
