@@ -23,3 +23,6 @@ Incluye:
 + Contraseña olvidada
 + **CRUD tareas**
 + **Interacción tareas**
+
+---
+⌨️ con ❤️ por [Mery](https://github.com/meryjv00) 🥰
