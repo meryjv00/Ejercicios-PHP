@@ -14,7 +14,7 @@ Incluye:
 + CRUD usuarios
 + **Contraseña olvidada**
 
-## - Versión 3 (LoginRegistroCRUDTareas_OO)   
+## - Versión 3 (LoginRegistroCRUDTareas_OO) ✅
 PHP Class mediante mysqli orientado a objetos  
 Incluye:  
 + Login
