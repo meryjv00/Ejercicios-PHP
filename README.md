@@ -1,4 +1,4 @@
-# :cherry_blossom:Contenido del repositorio:cherry_blossom:
+# Contenido del repositorio 📎📋
 ## - Versión 1 (LoginRegistroCRUD)   
 PHP Class mediante mysqli procedimental  
 Incluye:  
